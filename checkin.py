@@ -100,7 +100,7 @@ class Config:
     ENV_VERBOSE = "GLADOS_VERBOSE"
 
     """默认兑换计划（none 表示不自动兑换）"""
-    DEFAULT_EXCHANGE_PLAN = "none"
+    DEFAULT_EXCHANGE_PLAN = "plan500"
 
     """默认是否输出详细响应"""
     DEFAULT_VERBOSE = False
